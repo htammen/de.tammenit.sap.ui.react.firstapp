@@ -1,0 +1,10 @@
+{
+	"routes": [{
+		"path": "/Northwind",
+		"target": {
+			"type": "destination",
+			"name": "northwind"
+		},
+		"description": "Northwind ODATA service"
+	}]
+}
